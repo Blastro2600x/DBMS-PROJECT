@@ -1,7 +1,3 @@
-Here’s the updated README with only the API endpoints included in the Flask code provided:
-
----
-
 # **Social Media App Backend**
 
 A lightweight backend implementation for a social media application using Flask and MySQL. This project includes CRUD functionality for users, posts, comments, likes, and messages, with a clean and modular structure to simplify development and scalability.
@@ -105,4 +101,3 @@ Use tools like [Postman](https://www.postman.com/) or [Curl](https://curl.se/) t
 
 ---
 
-Let me know if you'd like any additional information included!
